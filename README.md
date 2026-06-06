@@ -39,6 +39,8 @@ This project is the Upgraded version of our old project . Check old version [git
 
 ## Processor Architecture 
 
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/8-bit%20Computer%20Final%20Version%20Architecture%20.png" width="80%" height="80%">
+
 ---
 
 ## Features
