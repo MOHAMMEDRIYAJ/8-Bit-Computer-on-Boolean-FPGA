@@ -11,7 +11,7 @@ This project is the Upgraded version of our old project . Check old version [git
 ## 📑 Table of Contents
 
 1.  [Project Intent](#project-intent)
-2.  [Processor Architecture](#processor-architecture)
+2.  [Project Architecture](#project-architecture)
 3.  [Features](#features)
 4.  [Design Hierarchy](#design-hierarchy)
 5.  [Layer Default Programs](#layer-default-programs)
@@ -37,7 +37,7 @@ This project is the Upgraded version of our old project . Check old version [git
 
 ---
 
-## Processor Architecture 
+## Project Architecture 
 
 <img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/8-bit%20Computer%20Final%20Version%20Architecture%20.png" width="80%" height="80%">
 
