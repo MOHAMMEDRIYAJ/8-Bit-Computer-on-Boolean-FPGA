@@ -67,13 +67,13 @@ This project is the Upgraded version of out github . Check old version [github](
 ## Layer Default Programs
 
 <pre>000 : Fibonacci Loop
-  001 : Multiplication of two numbers
-  010 : Division of two numbers
-  011 : Maximum of two numbers
-  100 : Password Checker with maximum of 3 attempts
-  101 : Sum of N numbers
-  110 : Traffic Light with bit masking
-  111 : Manual Programming </pre>
+001 : Multiplication of two numbers
+010 : Division of two numbers
+011 : Maximum of two numbers
+100 : Password Checker with maximum of 3 attempts
+101 : Sum of N numbers
+110 : Traffic Light with bit masking
+111 : Manual Programming </pre>
 
 ---
 
