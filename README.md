@@ -452,17 +452,17 @@ CPU State       = HALTED
 
 ## File Structure
 
-<img src="" width="80%" height="80%">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/File%20Structure.png" width="80%" height="80%">
 
 ---
 
 ## Files 
 
-🔹 [Sources]()
+🔹 [Sources](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/tree/main/Sources)
 
-🔹 [Constraints]()
+🔹 [Constraints](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/tree/main/Constraints)
 
-🔹 [Simulation]()
+🔹 [Simulation](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/tree/main/Simulation)
 
 ---
 
@@ -501,15 +501,15 @@ CPU State       = HALTED
 
 ### 🔹 CPU Top View
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Top%20view.png">
 
 ### 🔹 CPU Core View
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Core%20View.png">
 
 ### 🔹 Technology View
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Technology%20view.png">
 
 ---
 
@@ -517,15 +517,15 @@ CPU State       = HALTED
 
 ### 🔹 Design Time Summary
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Timing%20Report.png">
 
 ### 🔹 Utilization [Post Synthesis]
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Post%20Synthesis%20Report%20.png">
 
 ### 🔹 Utilization [Post Implementation]
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Post%20Implementation%20Report.png">
 
 ---
 
