@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project is the Upgraded version of out github . Check old version [github](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Zedboard-FPGA) for clear understanding
+This project is the Upgraded version of our old github . Check old version [github](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Zedboard-FPGA) for clear understanding
 
 ---
 
