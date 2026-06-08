@@ -194,7 +194,7 @@ Each instruction is executed using a multi-cycle control sequence.
 ### Execute Cycle
 
 | Mnemonic | T-Cycles | T3 | T4 | T5 | T6 |
-|---------|---------|----|----|----|    |
+|---------|---------|----|----|----|----|
 | NOP | 3 | — | — | — |    | 
 | LDA | 5 | IO → MI | RO → AI | — |    |
 | ADD | 6 | IO → MI | RO → BI | ALO → AI , FE |     |
