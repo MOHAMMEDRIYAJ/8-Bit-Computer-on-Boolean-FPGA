@@ -193,24 +193,24 @@ Each instruction is executed using a multi-cycle control sequence.
 
 ### Execute Cycle
 
-| Mnemonic | T-Cycles | T3 | T4 | T5 | 
-|---------|---------|----|----|----|
-| NOP | 3 | — | — | — |
-| LDA | 5 | IO → MI | RO → AI | — |
-| ADD | 6 | IO → MI | RO → BI | ALO → AI , FE |
-| SUB | 6 | IO → MI | RO → BI | SUB , ALO → AI, FE |
-| STA | 5 | IO → MI | AO → RI | — |
-| LDI | 5 | IO → AI | — | — |
-| JMP | 5 | IO → CL | — | — |
-| JC  | 3 or 4 | IO → CL (if C=1) | — | — |
-| JZ  | 3 or 4 | IO → CL (if Z=1) | — | — |
-| ADI | 5 | IO → BI | ALO → AI, FE | — |
-| SUI | 5 | IO → BI | SUB , ALO → AI, FE | — |
-| XRA | 6 | IO → MI | RO → BI | XRA , ALO → AI, FE |
-| ANA | 6 | IO → MI | RO → BI | ANA , ALO → AI, FE |
+| Mnemonic | T-Cycles | T3 | T4 | T5 | T6 |
+|---------|---------|----|----|----|    |
+| NOP | 3 | — | — | — |    | 
+| LDA | 5 | IO → MI | RO → AI | — |    |
+| ADD | 6 | IO → MI | RO → BI | ALO → AI , FE |     |
+| SUB | 6 | IO → MI | RO → BI | SUB , ALO → AI, FE |    |
+| STA | 5 | IO → MI | AO → RI | — |    |
+| LDI | 5 | IO → AI | — | — |    |
+| JMP | 5 | IO → CL | — | — |    |
+| JC  | 3 or 4 | IO → CL (if C=1) | — | — |    |
+| JZ  | 3 or 4 | IO → CL (if Z=1) | — | — |    |
+| ADI | 5 | IO → BI | ALO → AI, FE | — |    |
+| SUI | 5 | IO → BI | SUB , ALO → AI, FE | — |    |
+| XRA | 6 | IO → MI | RO → BI | XRA , ALO → AI, FE |    |
+| ANA | 6 | IO → MI | RO → BI | ANA , ALO → AI, FE |    |
 | INP | 7 | (Request for input) | INP → AI | IO → MI | AO → RI |
-| OUT | 4 | AO → OI | — | — |
-| HLT | 4 | HLT | — | — |
+| OUT | 4 | AO → OI | — | — |    |
+| HLT | 4 | HLT | — | — |    |
 
 > [!NOTE]
 > Every instruction takes all 6 T-Cycles and INP instruction 7 T-cycles to complete and the table mentions only the operating T-cycles
