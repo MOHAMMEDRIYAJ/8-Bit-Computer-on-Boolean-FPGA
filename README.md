@@ -39,6 +39,17 @@ This project is the Upgraded version of our old project . Check old version [git
 
 ## Project Intent
 
+The goal of this project is to demonstrate how a complete computer system can be built from fundamental digital hardware components using RTL design principles. The project focuses on architectural clarity, modularity, and educational visualization rather than computational performance.
+
+Key objectives include:
+
+- Designing a complete 8-bit processor using Verilog HDL.
+- Demonstrating the interaction between datapath and control logic.
+- Implementing a layer-based execution system with multiple applications.
+- Providing real-time user interaction through input instructions.
+- Enabling easy observation of processor operation using slow clock modes.
+- Creating a scalable foundation for future processor enhancements.
+
 ---
 
 ## Project Architecture 
