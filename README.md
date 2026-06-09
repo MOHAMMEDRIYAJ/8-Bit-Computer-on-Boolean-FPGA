@@ -60,6 +60,62 @@ Key objectives include:
 
 ## Features
 
+* **Custom 8-Bit RTL Computer Architecture**
+
+* **7 Pre-Programmed Execution Layers**
+
+  * Fibonacci Generator
+  * Multiplication
+  * Division
+  * Maximum Number Finder
+  * Password Checker
+  * Sum of N Numbers
+  * Traffic Light Controller
+
+* **1 Manual Programming Layer** for user-defined programs
+
+* **Dual Operating Clock Modes**
+
+  * 6 Hz Execution Mode
+  * 1 Hz Observation Mode
+
+* **Enhanced INP Instruction**
+
+  * Accepts external user input
+  * Loads data into both the Accumulator and a specified RAM location
+
+* **Multi-Cycle Instruction Execution** using T-state sequencing
+
+* **16 × 8-bit Addressable RAM**
+
+* **ALU Support for Arithmetic and Logical Operations**
+
+  * ADD
+  * SUB
+  * ADI
+  * SUI
+  * XOR
+  * AND
+
+* **Carry and Zero Flag Support**
+
+* **Conditional and Unconditional Branching**
+
+  * JMP
+  * JC
+  * JZ
+
+* **Input and Output Instruction Support**
+
+* **Real-Time FPGA Visualization**
+
+  * Output Display
+  * Program Counter Display
+
+* **Fully Synthesizable and FPGA Implementable RTL Design**
+
+* **Modular and Extensible Architecture for Future Enhancements**
+
 ---
 
 ## Design Hierarchy 
