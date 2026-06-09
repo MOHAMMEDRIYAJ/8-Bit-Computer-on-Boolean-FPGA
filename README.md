@@ -4,6 +4,10 @@
 
 ## 📌 Project Overview
 
+This project implements a custom 8-Bit Computer designed entirely at the Register Transfer Level (RTL) using Verilog HDL. The architecture combines a modular datapath, micro-sequenced control unit, RAM, ALU, registers, and input/output interfaces to create a fully functional processor system on FPGA.
+
+Unlike traditional SAP-style implementations, this version introduces a Layer-Based Program Architecture with multiple pre-programmed applications, manual programming capability, dual-speed execution clocks, and an enhanced input instruction mechanism. The design provides a practical platform for understanding processor operation, instruction execution, memory management, and hardware-software interaction at the RTL level.
+
 This project is the Upgraded version of our old project . Check old version [github](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Zedboard-FPGA) for clear understanding
 
 ---
