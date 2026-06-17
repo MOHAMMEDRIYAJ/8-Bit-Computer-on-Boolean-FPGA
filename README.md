@@ -512,10 +512,11 @@ CPU State       = HALTED
 
 ## EDA Tool and FPGA
 
-- Software: AMD Vivado ML Edition (Standard) 2024.2, Cadence Incisive Simulator
+- **Software:**
+-   AMD Vivado ML Edition (Standard) 2024.2, Cadence Incisive Simulator
 - **Hardware:**
-- Board :
-- Part  : xc7s50csga324-1
+-   Board : Boolean Board (Spartan 7)
+-   Part  : xc7s50csga324-1
 
 ---
 
@@ -600,7 +601,7 @@ CPU State       = HALTED
 
 ## FPGA Implementation and Demonstration
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Boolean%208-bit%20.png">
 
 ### 🔹 [Demonstration Video Link](https://drive.google.com/file/d/1aTcI65OitU7tla8BNdzaIk9-2c580Hyk/view?usp=drive_link)
 
