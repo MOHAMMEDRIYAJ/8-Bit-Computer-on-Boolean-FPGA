@@ -1,7 +1,5 @@
 # 8-Bit-Computer-on-Boolean-Board
 
----
-
 ## 📌 Project Overview
 
 This project implements a custom 8-Bit Computer designed entirely at the Register Transfer Level (RTL) using Verilog HDL. The architecture combines a modular datapath, micro-sequenced control unit, RAM, ALU, registers, and input/output interfaces to create a fully functional processor system on FPGA.
@@ -604,7 +602,7 @@ CPU State       = HALTED
 
 <img src="">
 
-### 🔹 [Demonstration Video Link]()
+### 🔹 [Demonstration Video Link](https://drive.google.com/file/d/1aTcI65OitU7tla8BNdzaIk9-2c580Hyk/view?usp=drive_link)
 
 ---
 
