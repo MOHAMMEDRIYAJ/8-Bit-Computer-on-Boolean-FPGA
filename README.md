@@ -8,6 +8,9 @@ Unlike traditional SAP-style implementations, this version introduces a Layer-Ba
 
 This project is the Upgraded version of our old project . Check old version [github](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Zedboard-FPGA) for clear understanding
 
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Boolean%208-bit%20.png" width="80%" height="80%" >
+
+
 ---
 
 ## 📑 Table of Contents
