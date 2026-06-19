@@ -19,7 +19,7 @@ This project is the Upgraded version of our old project . Check old version [git
 2.  [Project Architecture](#project-architecture)
 3.  [Features](#features)
 4.  [Design Hierarchy](#design-hierarchy)
-5.  [Layer Default Programs](#layer-default-programs)
+5.  [Layer Operations](#layer-operations)
 6.  [Instruction Set Architecture](#instruction-set-architecture-isa)
 7.  [Control Signals](#control-signals--micro-operations-)
 8.  [Instruction Execution](#instruction-execution)
