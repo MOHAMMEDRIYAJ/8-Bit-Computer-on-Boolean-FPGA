@@ -541,32 +541,30 @@ CPU State       = HALTED
 
 ## Simulation
 
-### 🔹 Testbench-1  Loading ([]())
+### 🔹 Testbench-1  Layer-000 (Preprogrammed) ([Fibonacci Loop](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Simulation/layer_1_tb.v))
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Layer_1_sim1.png">
 
-### 🔹 Testbench-1  Run ([]())
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Layer_1_sim2.png">
 
-<img src="">
+### 🔹 Testbench-2  Layer-001 (Preprogrammed) ([Multiplication of Two Numbers](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Simulation/layer_2_tb.v))
 
-### 🔹 Testbench-2  Loading ([]())
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Layer_2_sim1.png">
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Layer_2_sim2.png">
 
-### 🔹 Testbench-2  Run ([]())
+### 🔹 Testbench-3  Layer-111 (Manual Programming) ([Multiples of 15 upto 255](https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Simulation/manual_layer.v))
 
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Manual_layer_sim1.v.png">
 
-### 🔹 Testbench-3  Loading ([]())
-
-<img src="">
-
-### 🔹 Testbench-3  Run ([]())
-
-<img src="">
+<img src="https://github.com/MOHAMMEDRIYAJ/8-Bit-Computer-on-Boolean-FPGA/blob/main/Images/Manual_layer_sim2.v.png">
 
 > [!NOTE]
-> `out_display` is present in simulation for verification and easier debugging
+> `out_display` is present in simulation for verification and easier debugging.
+> 
+> `Clock Divider` is not used for Simulation.
+>
+> Some ports are not use for Simulation.
 
 ---
 
