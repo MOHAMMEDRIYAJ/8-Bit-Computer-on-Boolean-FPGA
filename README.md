@@ -138,7 +138,7 @@ Key objectives include:
 
 ---
 
-## Layer Default Programs
+## Layer Operations
 
 <pre>000 : Fibonacci Loop
 001 : Multiplication of two numbers
